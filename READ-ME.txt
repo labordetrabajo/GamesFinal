@@ -1,11 +1,20 @@
-  =>  Template Name    : PetLover - Pet Care Website Template
+ Games Servicios Técnicos
+¡Bienvenido al repositorio de Games Servicios Técnicos en GitHub! Aquí encontrarás información relevante sobre nuestro local de reparación y mantenimiento de equipos de videojuegos, así como detalles sobre cómo contribuir al proyecto.
 
-  =>  Template Link    : https://htmlcodex.com/pet-care-website-template
+Acerca de
+En Games Servicios Técnicos nos especializamos en ofrecer servicios de reparación, mantenimiento y personalización de equipos de videojuegos. Nuestro objetivo es proporcionar soluciones rápidas y efectivas para asegurar que los jugadores puedan disfrutar de sus experiencias de juego sin interrupciones.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Contenido del repositorio
+docs/: En esta carpeta encontrarás documentación detallada sobre nuestros servicios, incluyendo guías de solución de problemas, instrucciones de instalación y configuración, y consejos para el cuidado de tus equipos de videojuegos.
 
-  =>  Template Author  : HTML Codex
+src/: Aquí se encuentra el código fuente de nuestras aplicaciones y herramientas desarrolladas específicamente para mejorar y personalizar la experiencia de juego. Si eres un desarrollador interesado en contribuir, ¡estamos abiertos a colaboraciones!
 
-  =>  Author Website   : https://htmlcodex.com
+Contribución
+Si deseas contribuir a nuestro proyecto, te invitamos a seguir estos pasos:
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+Haz un fork de este repositorio y clónalo en tu máquina local.
+Realiza las modificaciones o mejoras que desees.
+Envía un pull request describiendo los cambios que has realizado y por qué son importantes.
+Revisaremos tu contribución lo antes posible y te proporcionaremos comentarios si es necesario.
+Agradecemos tu interés en colaborar con Games Servicios Técnicos y esperamos recibir tus contribuciones. Juntos, podemos mejorar la experiencia de juego para todos los jugadores. ¡Diviértete y mantén tus equipos en óptimas condiciones!
+
