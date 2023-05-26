@@ -1,35 +1,11 @@
  
 
- => FREE HTML TEMPLATE LICENSE BY HTML Codex
+ MIT License
 
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author�s credit link/attribution link/backlink.
+Derechos de autor (c) [Año] Lucas Laborde]
 
- When you download or use our free HTML templates, it will attribute the following conditions.
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
- => YOU ARE ALLOWED
-
-      1. You are allowed to use for your personal and commercial purposes.
-
-      2. You are allowed to modify/customize however you like.
-
-      3. You are allowed to convert/port for use for any CMS.
-
-      4. You are allowed to share/distribute under the HTML Codex brand name.
-
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
-
-
- => YOU ARE NOT ALLOWED
-
-      1. You are not allowed to remove the author�s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
-
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
-
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
-
- This license can be terminated if you breach any of these conditions.
-
- Please contact us (https://htmlcodex.com/contact) if you have any query.
-
- => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADA A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
